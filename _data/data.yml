@@ -17,15 +17,15 @@ sidebar:
     phone: +98 915 568 3919
     timezone: Iran/Tehran # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Iran
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: alandoe
-    xing: alandoe
+    #xing: alandoe
     github: jekyll
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #gitlab:
+    #bitbucket:
+    #twitter: '@jekyllrb'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     mastodon:  # Please include your full Mastodon link here.
@@ -36,13 +36,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Farsi
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
@@ -60,12 +57,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Motivated and quick-to-learn with a foundational understanding of server configuration and monitoring. Experienced in configuring web hosting environments, writing bash and python scripts for data gathering and automation, maintaining monitoring systems using modern tools. With a growing interest in DevOps, cloud technologies, and automation, I have actively pursued learning opportunities, including practical experience with Docker.
+      Eager to contribute to a junior-level role, I am committed to leveraging my skills and enthusiasm to support team goals and continue my professional development in a dynamic and innovative environment.
 education:
     title: Education
     info:
