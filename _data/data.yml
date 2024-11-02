@@ -18,10 +18,10 @@ sidebar:
     timezone: Iran/Tehran # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Iran
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: https://www.linkedin.com/in/sina-ghorbanian-396184251?utm_source=share&utm_campaign=share_via&utm_content=profile
+    linkedin: https://linkedin.com/in/sina-ghorbanian-396184251
     #xing: alandoe
     github: https://github.com/SinaGhorbanian79
-    telegram: # add your nickname without '@' sign
+    telegram: sinamdrt
     #gitlab:
     #bitbucket:
     #twitter: '@jekyllrb'
@@ -83,25 +83,21 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Web Hosting Technical Support
+        time: 2022 - 2023
+        company: Limoo Host, Mashhad
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            At Limoo Host, a leading web hosting company serving thousands of clients with a focus on WordPress hosting, I began as an intern and quickly advanced in my role. I started by gaining hands-on experience with essential web hosting concepts, including DNS management, SSL certificate configuration, and troubleshooting WordPress websites.
+            During my time there, I developed a deep interest in Linux, which I mastered swiftly. This led to increased responsibilities, where I was granted access to the company’s servers and entrusted with configuring bare metal servers into fully operational web hosting platforms. This experience allowed me to hone my skills in managing Linux-based systems, configuring Apache web servers, and setting up and optimizing MySQL databases.
+            By the end of my tenure, I played a crucial role in ensuring the reliability and scalability of the company’s web hosting infrastructure, contributing to the overall success of Limoo Host's operations.            - Bullet point
 
 certifications:
       title: Certifications
       list:
         - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
+          start: 2023
+          end: 2023
+          organization: KodeKloud
           credentialid: 111-222
           credentialurl: www.google.com
           credentialname: Google
@@ -119,23 +115,6 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
 projects:
     title: Projects
     intro: >
