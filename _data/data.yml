@@ -18,20 +18,20 @@ sidebar:
     timezone: Iran/Tehran # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Iran
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
+    linkedin: https://www.linkedin.com/in/sina-ghorbanian-396184251?utm_source=share&utm_campaign=share_via&utm_content=profile
     #xing: alandoe
-    github: jekyll
+    github: https://github.com/SinaGhorbanian79
     telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
     #twitter: '@jekyllrb'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #mastodon:  # Please include your full Mastodon link here.
+    #hackerrank: # Please provide your HackerRank username.
+    #leetcode: # Please provide your LeetCode username.
+    #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
@@ -42,20 +42,8 @@ sidebar:
         - idiom: English
           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
-
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       Motivated and quick-to-learn with a foundational understanding of server configuration and monitoring. Experienced in configuring web hosting environments, writing bash and python scripts for data gathering and automation, maintaining monitoring systems using modern tools. With a growing interest in DevOps, cloud technologies, and automation, I have actively pursued learning opportunities, including practical experience with Docker.
       Eager to contribute to a junior-level role, I am committed to leveraging my skills and enthusiasm to support team goals and continue my professional development in a dynamic and innovative environment.
@@ -65,14 +53,6 @@ education:
       - degree: BSc in Computer Engineering
         university: Islamic Azad University
         time: 2019 - 2024
-        #details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experiences
