@@ -57,31 +57,18 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Devops Engineer
+        time: 2024 - Present
+        company: TSIC, Mashhad
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            nothing to say yet
+      - role: Monitoring Specialist
+        time: 2023 - 2024
+        company: Part Software Group, Mashhad
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
+            At Part Software Group, I began my role as a Monitoring Specialist, where I was responsible for configuring monitoring servers to track the performance of various systems and applications. I set up servers using Telegraf to gather metrics from other servers across the company. Additionally, I wrote numerous Bash and Python scripts to extract metrics in JSON format from both servers and applications, automating and optimizing the data collection process.
+            I became proficient with time series databases (TSDBs) such as Prometheus and InfluxDB, using them to store and analyze large volumes of metrics and . Over time, I became the primary maintainer of the company’s monitoring infrastructure, ensuring its smooth operation and accuracy.
+            In recognition of my expertise, I was given the opportunity to teach these concepts in a short course held within the company, sharing my knowledge of monitoring, scripting, and TSDBs.            - Bullet point
             - Bullet point
       - role: Web Hosting Technical Support
         time: 2022 - 2023
