@@ -68,15 +68,14 @@ experiences:
         details: |
             At Part Software Group, I began my role as a Monitoring Specialist, where I was responsible for configuring monitoring servers to track the performance of various systems and applications. I set up servers using Telegraf to gather metrics from other servers across the company. Additionally, I wrote numerous Bash and Python scripts to extract metrics in JSON format from both servers and applications, automating and optimizing the data collection process.
             I became proficient with time series databases (TSDBs) such as Prometheus and InfluxDB, using them to store and analyze large volumes of metrics and . Over time, I became the primary maintainer of the company’s monitoring infrastructure, ensuring its smooth operation and accuracy.
-            In recognition of my expertise, I was given the opportunity to teach these concepts in a short course held within the company, sharing my knowledge of monitoring, scripting, and TSDBs.            - Bullet point
-            - Bullet point
+            In recognition of my expertise, I was given the opportunity to teach these concepts in a short course held within the company, sharing my knowledge of monitoring, scripting, and TSDBs.
       - role: Web Hosting Technical Support
         time: 2022 - 2023
         company: Limoo Host, Mashhad
         details: |
             At Limoo Host, a leading web hosting company serving thousands of clients with a focus on WordPress hosting, I began as an intern and quickly advanced in my role. I started by gaining hands-on experience with essential web hosting concepts, including DNS management, SSL certificate configuration, and troubleshooting WordPress websites.
             During my time there, I developed a deep interest in Linux, which I mastered swiftly. This led to increased responsibilities, where I was granted access to the company’s servers and entrusted with configuring bare metal servers into fully operational web hosting platforms. This experience allowed me to hone my skills in managing Linux-based systems, configuring Apache web servers, and setting up and optimizing MySQL databases.
-            By the end of my tenure, I played a crucial role in ensuring the reliability and scalability of the company’s web hosting infrastructure, contributing to the overall success of Limoo Host's operations.            - Bullet point
+            By the end of my tenure, I played a crucial role in ensuring the reliability and scalability of the company’s web hosting infrastructure, contributing to the overall success of Limoo Host's operations.
 
 certifications:
       title: Certifications
@@ -92,24 +91,68 @@ certifications:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+toolset:
+  - name: Python
+    level: 60%
 
-      - name: Javascript & jQuery
-        level: 98%
+  - name: Linux
+    level: 98%
 
-      - name: Angular
-        level: 98%
+  - name: Docker
+    level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+  - name: Kubernetes
+    level: 2%
 
-      - name: Ruby on Rails
-        level: 85%
+  - name: Jenkins
+    level: 2%
 
-      - name: Sketch & Photoshop
-        level: 60%
+  - name: Git
+    level: 90%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  - name: Terraform
+    level: 2%
+
+  - name: Ansible
+    level: 90%
+
+  - name: AWS (Amazon Web Services)
+    level: 2%
+
+  - name: Azure
+    level: 2%
+
+  - name: CI/CD Pipelines
+    level: 30%
+
+  - name: Nagios
+    level: 2%
+
+  - name: Nginx
+    level: 95%
+
+  - name: Prometheus & Grafana
+    level: 80%
+
+  - name: VMware
+    level: 70%
+
+  - name: GitLab CI
+    level: 50%
+
+  - name: Helm
+    level: 2%
+
+  - name: Puppet
+    level: 2%
+
+  - name: OpenShift
+    level: 2%
+
+  - name: Splunk
+    level: 2%
+
+  - name: Jenkins X
+    level: 2%
+#footer: >
+ #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
