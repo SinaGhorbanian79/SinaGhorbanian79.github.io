@@ -91,68 +91,68 @@ certifications:
 skills:
     title: Skills &amp; Proficiency
 
-toolset:
-  - name: Python
-    level: 60%
+    toolset:
+      - name: Python
+        level: 60%
 
-  - name: Linux
-    level: 98%
+      - name: Linux
+        level: 98%
 
-  - name: Docker
-    level: 98%
+      - name: Docker
+        level: 98%
 
-  - name: Kubernetes
-    level: 2%
+      - name: Kubernetes
+        level: 2%
 
-  - name: Jenkins
-    level: 2%
+      - name: Jenkins
+        level: 2%
 
-  - name: Git
-    level: 90%
+      - name: Git
+        level: 90%
 
-  - name: Terraform
-    level: 2%
+      - name: Terraform
+        level: 2%
 
-  - name: Ansible
-    level: 90%
+      - name: Ansible
+        level: 90%
 
-  - name: AWS (Amazon Web Services)
-    level: 2%
+      - name: AWS (Amazon Web Services)
+        level: 2%
 
-  - name: Azure
-    level: 2%
+      - name: Azure
+        level: 2%
 
-  - name: CI/CD Pipelines
-    level: 30%
+      - name: CI/CD Pipelines
+        level: 30%
 
-  - name: Nagios
-    level: 2%
+      - name: Nagios
+        level: 2%
 
-  - name: Nginx
-    level: 95%
+      - name: Nginx
+        level: 95%
 
-  - name: Prometheus & Grafana
-    level: 80%
+      - name: Prometheus & Grafana
+        level: 80%
 
-  - name: VMware
-    level: 70%
+      - name: VMware
+        level: 70%
 
-  - name: GitLab CI
-    level: 50%
+      - name: GitLab CI
+        level: 50%
 
-  - name: Helm
-    level: 2%
+      - name: Helm
+        level: 2%
 
-  - name: Puppet
-    level: 2%
+      - name: Puppet
+        level: 2%
 
-  - name: OpenShift
-    level: 2%
+      - name: OpenShift
+        level: 2%
 
-  - name: Splunk
-    level: 2%
+      - name: Splunk
+        level: 2%
 
-  - name: Jenkins X
-    level: 2%
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Jenkins X
+        level: 2%
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
